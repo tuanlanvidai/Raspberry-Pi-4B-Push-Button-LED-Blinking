@@ -71,14 +71,6 @@ Refer to the circuit diagram and photos in the `docs/` directory.
 3. Click the `Run` button (or press `F5`) to execute the script.
 4. Press the button to see the LED blink.
 
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
