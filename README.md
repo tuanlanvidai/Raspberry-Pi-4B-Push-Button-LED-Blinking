@@ -27,9 +27,9 @@ Refer to the circuit diagram and photos in the `docs/` directory.
 ![Circuit Diagram](docs/circuit_diagram.png)
 
 #### Real Circuit Photos
-![Photo 1](docs/photos/photo1.jpg)
-![Photo 2](docs/photos/photo2.jpg)
-![Photo 3](docs/photos/photo3.jpg)
+![Photo 1](docs/photos/Photo1.jpg)
+![Photo 2](docs/photos/Photo2.jpg)
+![Photo 3](docs/photos/Photo3.jpg)
 
 - Connect the LED to a GPIO pin (for example: GPIO_PIN 17) through the 330 ohm resistor (1k ohm or 10k ohm is okay, but do not use resistor below 330 ohm).
 - Connect one leg of the push button to a GPIO pin (for example: GPIO_PIN 26) through the 1k ohm resistor, the other leg to ground and another leg to the 3.3V through a 10k ohm resistor.
