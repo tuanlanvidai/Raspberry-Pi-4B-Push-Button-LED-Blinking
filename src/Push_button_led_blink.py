@@ -1,5 +1,6 @@
 #Using RPIGPIO module for this project
 import RPi.GPIO as GPIO
+import time
 
 #Assign variable with GPIO PIN 17 and PIN 26
 LED_PIN =17
