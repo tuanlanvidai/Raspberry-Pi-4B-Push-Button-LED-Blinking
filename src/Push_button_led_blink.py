@@ -18,5 +18,6 @@ while True:
     #If the button is not pressed (0) then LED turn off
     else:
         GPIO.output(LED_PIN, GPIO.LOW)
+    time.sleep(0.01)
 
 GPIO.cleanup()
